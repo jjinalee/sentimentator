@@ -106,3 +106,4 @@ ENV/
 *.xml
 .idea/Flask.iml
 .env
+.env
